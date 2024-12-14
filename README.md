@@ -1,4 +1,5 @@
 # marketListApp
 
+myMarketList ( actual app ) 
 * SwiftUI
-* SwiftData
+* SwiftData practice ( save , list , edit and delete SwiftData manupulation )
