@@ -1,1 +1,4 @@
 # marketListApp
+
+* SwiftUI
+* SwiftData
